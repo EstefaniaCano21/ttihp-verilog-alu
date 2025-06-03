@@ -1,6 +1,6 @@
 # Tiny Tapeout project information
 project:
-  title:        "tt02-alu-4bit"      # Project title 
+  title:        "tt02-alu-4bit"      # Project title
   author:       "LT"      # Your name
   discord:      "EstefaniaCano21"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "4-bit ALU with 8 operations for TinyTapeout 02"      # One line description of what your project does
